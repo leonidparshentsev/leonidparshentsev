@@ -12,13 +12,19 @@
   * Запрос и получение данных через API [`checkwxapi`](https://www.checkwxapi.com/documentation/metar).
   * Анимация во время загрузки данных.
   * Расшифровка и вывод обработанных данных о погоде в текстовом формате.
-  * Адаптивная верстка
+  * Адаптивная верстка.
     
 - [`Design studio`](https://leonidparshentsev.github.io/Ambience_studio/) верстка лендинга. Сверстал адаптивный landing page, основываясь на дизайне, найденом на behance. Стэк: HTML, CSS, Vanila JS. [`репозиторий`](https://github.com/leonidparshentsev/Ambience_studio).
 
   В проекте реализовано:
   * Адаптивная верстка с использованием GRID - раскладки.
   * Валидация формы ввода телефонного номера с автодополнением строки для приведения телефона к заданному виду, с использованием чистого JavaScript.
+
+- [`Компонент таймера обратного отсчета`](https://leonidparshentsev.github.io/countdown_timer/), который отсчитывает каждую секунду в реальном времени. Стэк: HTML, CSS, Vanila JS. [`репозиторий`](https://github.com/leonidparshentsev/countdown_timer/tree/master).
+
+  В проекте реализовано:
+  * Таймер.
+  * Анимация переворота карточки с числом.
 
 ### Мой стэк :computer:
 
@@ -49,6 +55,12 @@ I’m interested in web development and design. You can see my projects below.
   Implemented in the project:
   * Adaptive layout using GRID.
   * Validation of the phone number input form with auto-completion of the string to bring the phone to the specified form, using pure JavaScript.
+ 
+- [`Countdown timer component`](https://leonidparshentsev.github.io/countdown_timer/), which counts down every second in real time. Stack: HTML, CSS, Vanila JS. [`repository`](https://github.com/leonidparshentsev/countdown_timer/tree/master).
+
+   Implemented in the project:
+  * Timer.
+  * Animation of a card flip with a number.
 
 ### My stack :computer:
 
