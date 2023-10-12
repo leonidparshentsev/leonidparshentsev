@@ -6,25 +6,24 @@
 
 ### Проекты :card_index_dividers:
 
-- [`METAR Weather decoder`](https://leonidparshentsev.github.io/Metar_decoder/) ресурс для поиска и расшифровки метеорологических сводок. Стэк: HTML, CSS, Vanila JS. [`репозиторий`](https://github.com/leonidparshentsev/Metar_decoder).
+- [`Игра крестики-нолики`](https://leonidparshentsev.github.io/Tic_Tac_Toe_game/). Стэк: HTML, CSS, Vanila JS. [`Репозиторий`](https://github.com/leonidparshentsev/Tic_Tac_Toe_game). В проекте реализовано:
+  * Сохранение статистики предыдущих игр на стороне клиента в localstorage.
+  * Возможность игры с другим игроком или против компьютера.
+  * Логика противника-компьютера, реализованная с использованием алгоритма "минимакс".
 
-  В проекте реализовано:
-  * Запрос и получение данных через API [`checkwxapi`](https://www.checkwxapi.com/documentation/metar).
+- [`METAR Weather decoder`](https://leonidparshentsev.github.io/Metar_decoder/) ресурс для поиска и расшифровки метеорологических сводок. Стэк: HTML, CSS, Vanila JS. [`Репозиторий`](https://github.com/leonidparshentsev/Metar_decoder). В проекте реализовано:
+  * Запрос и получение данных через API [`checkwxapi`](https://www.checkwxapi.com/documentation/metar). (С помощью Fetch).
   * Анимация во время загрузки данных.
   * Расшифровка и вывод обработанных данных о погоде в текстовом формате.
   * Адаптивная верстка.
     
-- [`Design studio`](https://leonidparshentsev.github.io/Ambience_studio/) верстка лендинга. Сверстал адаптивный landing page, основываясь на дизайне, найденом на behance. Стэк: HTML, CSS, Vanila JS. [`репозиторий`](https://github.com/leonidparshentsev/Ambience_studio).
-
-  В проекте реализовано:
-  * Адаптивная верстка с использованием GRID - раскладки.
+- [`Design studio`](https://leonidparshentsev.github.io/Ambience_studio/) верстка лендинга. Стэк: HTML, CSS, Vanila JS. [`Репозиторий`](https://github.com/leonidparshentsev/Ambience_studio). В проекте реализовано:
   * Валидация формы ввода телефонного номера с автодополнением строки для приведения телефона к заданному виду, с использованием чистого JavaScript.
+  * Адаптивная верстка с использованием GRID - раскладки.
 
-- [`Компонент таймера обратного отсчета`](https://leonidparshentsev.github.io/countdown_timer/), который отсчитывает каждую секунду в реальном времени. Стэк: HTML, CSS, Vanila JS. [`репозиторий`](https://github.com/leonidparshentsev/countdown_timer/tree/master).
-
-  В проекте реализовано:
-  * Таймер.
-  * Анимация переворота карточки с числом.
+- [`Компонент таймера обратного отсчета`](https://leonidparshentsev.github.io/countdown_timer/), который отсчитывает каждую секунду в реальном времени. Стэк: HTML, CSS, Vanila JS. [`Репозиторий`](https://github.com/leonidparshentsev/countdown_timer/tree/master). В проекте реализовано:
+  * Таймер обратного отсчета в реальном времени, который отсчитывает каждую секунду.
+  * Анимация переворота карточки.
 
 ### Мой стэк :computer:
 
@@ -42,25 +41,24 @@ I’m interested in web development and design. You can see my projects below.
 
 ### My projects :card_index_dividers:
 
-- [`METAR Weather decoder`](https://leonidparshentsev.github.io/Metar_decoder/) A resource for searching and decoding meteorological reports. Stack: HTML, CSS, Vanila JS. [`repository`](https://github.com/leonidparshentsev/Metar_decoder).
+- [`Tic tac toe game`](https://leonidparshentsev.github.io/Tic_Tac_Toe_game/). Stack: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/Tic_Tac_Toe_game). Implemented in the project:
+  * Saving statistics of previous games on the client side in localstorage.
+  * The ability to play with another player or against the computer.
+  * Computer opponent logic implement using the "minimax" algorithm.
 
-  Implemented in the project:
-  * Requesting and receiving data via the API [`checkwxapi`](https://www.checkwxapi.com/documentation/metar).
+- [`METAR Weather decoder`](https://leonidparshentsev.github.io/Metar_decoder/) A resource for searching and decoding meteorological reports. Stack: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/Metar_decoder). Implemented in the project:
+  * Requesting and receiving data via the API [`checkwxapi`](https://www.checkwxapi.com/documentation/metar). (Using Fetch).
   * Animation during data loading.
   * Decode and output of weather data in text format.
   * Adaptive layout.
     
-- [`Design studio`](https://leonidparshentsev.github.io/Ambience_studio/) website layout. Coded an adaptive landing page layout based on the design found on behance. Stack: HTML, CSS, Vanila JS. [`repository`](https://github.com/leonidparshentsev/Ambience_studio).
-
-  Implemented in the project:
-  * Adaptive layout using GRID.
+- [`Design studio`](https://leonidparshentsev.github.io/Ambience_studio/) website layout. Stack: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/Ambience_studio). Implemented in the project:
   * Validation of the phone number input form with auto-completion of the string to bring the phone to the specified form, using pure JavaScript.
+  * Adaptive layout using GRID.
  
-- [`Countdown timer component`](https://leonidparshentsev.github.io/countdown_timer/), which counts down every second in real time. Stack: HTML, CSS, Vanila JS. [`repository`](https://github.com/leonidparshentsev/countdown_timer/tree/master).
-
-   Implemented in the project:
-  * Timer.
-  * Animation of a card flip with a number.
+- [`Countdown timer component`](https://leonidparshentsev.github.io/countdown_timer/), which counts down every second in real time. Stack: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/countdown_timer/tree/master). Implemented in the project:
+  * A real-time countdown timer that counts down every second.
+  * Animation of the card flip through the middle, when the number changes.
 
 ### My stack :computer:
 
