@@ -21,6 +21,9 @@
   * Валидация формы ввода телефонного номера с автодополнением строки для приведения телефона к заданному виду, с использованием чистого JavaScript.
   * Адаптивная верстка с использованием GRID - раскладки.
 
+- [`Portfolio landing`](https://leonidparshentsev.github.io/Portfolio_landing/) верстка лендинга. Стэк: HTML, CSS, Vanila JS. [`Репозиторий`](https://github.com/leonidparshentsev/Portfolio_landing). В проекте реализовано:
+  * Адаптивная верстка с использованием Flex.
+
 - [`Компонент таймера обратного отсчета`](https://leonidparshentsev.github.io/countdown_timer/), который отсчитывает каждую секунду в реальном времени. Стэк: HTML, CSS, Vanila JS. [`Репозиторий`](https://github.com/leonidparshentsev/countdown_timer/tree/master). В проекте реализовано:
   * Таймер обратного отсчета в реальном времени, который отсчитывает каждую секунду.
   * Анимация переворота карточки.
@@ -55,6 +58,9 @@ I’m interested in web development and design. You can see my projects below.
 - [`Design studio`](https://leonidparshentsev.github.io/Ambience_studio/) website layout. Stack: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/Ambience_studio). Implemented in the project:
   * Validation of the phone number input form with auto-completion of the string to bring the phone to the specified form, using pure JavaScript.
   * Adaptive layout using GRID.
+
+- [`Portfolio landing`](https://leonidparshentsev.github.io/Portfolio_landing/) layout. Стэк: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/Portfolio_landing). Implemented in the project:
+  * Adaptive layout using Flex.
  
 - [`Countdown timer component`](https://leonidparshentsev.github.io/countdown_timer/), which counts down every second in real time. Stack: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/countdown_timer/tree/master). Implemented in the project:
   * A real-time countdown timer that counts down every second.
