@@ -6,6 +6,11 @@
 
 ### Проекты :card_index_dividers:
 
+- [`Todo app`](https://todos-tau-five.vercel.app) планировщик задач. Стэк: React, Next JS, CSS Modules. [`Репозиторий`](https://github.com/leonidparshentsev/todos). В проекте реализовано:
+  * Drag and drop для перемещения задач между группами.
+  * Изменение цвета каждой группы задач.
+  * Сохранение данных на стороне клиента в localstorage.
+
 - [`Игра крестики-нолики`](https://leonidparshentsev.github.io/Tic_Tac_Toe_game/). Стэк: HTML, CSS, Vanila JS. [`Репозиторий`](https://github.com/leonidparshentsev/Tic_Tac_Toe_game). В проекте реализовано:
   * Сохранение статистики предыдущих игр на стороне клиента в localstorage.
   * Возможность игры с другим игроком или против компьютера.
@@ -30,8 +35,9 @@
 
 ### Мой стэк :computer:
 
-- HTML · CSS · JS
-- БЭМ · Адаптивная верстка · Кросс-браузерная верстка
+- HTML · БЭМ · Адаптивная верстка · Кросс-браузерная верстка
+- CSS · SASS/SCSS · CSS Modules
+- JavaScript · React · Next JS
 - Git
 
 ---
@@ -43,6 +49,12 @@
 I’m interested in web development and design. You can see my projects below.
 
 ### My projects :card_index_dividers:
+
+- [`Todo app`](https://todos-tau-five.vercel.app) task scheduler. Stack: React, Next JS, CSS Modules. [`Repository`](https://github.com/leonidparshentsev/todos). Implemented in the project:
+  * Drag and drop to move tasks between groups.
+  * Change the color of each task group.
+  * Saving data on the client side in localstorage.
+
 
 - [`Tic tac toe game`](https://leonidparshentsev.github.io/Tic_Tac_Toe_game/). Stack: HTML, CSS, Vanila JS. [`Repository`](https://github.com/leonidparshentsev/Tic_Tac_Toe_game). Implemented in the project:
   * Saving statistics of previous games on the client side in localstorage.
@@ -68,8 +80,9 @@ I’m interested in web development and design. You can see my projects below.
 
 ### My stack :computer:
 
-- HTML · CSS · JS
-- BEM · Adaptive layout · Cross-browser
+- HTML · BEM · Adaptive layout · Cross-browser
+- CSS · SASS/SCSS · CSS Modules
+- JavaScript · React · Next JS
 - Git
 
 [![codewars](https://www.codewars.com/users/leonidparshentsev/badges/micro)](https://www.codewars.com/users/leonidparshentsev)
