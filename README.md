@@ -6,6 +6,8 @@
 
 ### Проекты :card_index_dividers:
 
+- [`Carrent`](carrent-rosy.vercel.app) SPA веб-сайт проката автомобилей. Стэк: React, ReduxTK, Next JS, SCSS, CSS Modules. [`Репозиторий`](https://github.com/leonidparshentsev/Carrent).
+
 - [`Todo app`](https://todos-tau-five.vercel.app) планировщик задач. Стэк: React, Next JS, CSS Modules. [`Репозиторий`](https://github.com/leonidparshentsev/todos). В проекте реализовано:
   * Drag and drop для перемещения задач между группами.
   * Изменение цвета каждой группы задач.
@@ -37,7 +39,7 @@
 
 - HTML · БЭМ · Адаптивная верстка · Кросс-браузерная верстка
 - CSS · SASS/SCSS · CSS Modules
-- JavaScript · React · Next JS
+- JavaScript · React · Redux · Next JS
 - Git
 
 ---
@@ -49,6 +51,8 @@
 I’m interested in web development and design. You can see my projects below.
 
 ### My projects :card_index_dividers:
+
+- [`Carrent`](carrent-rosy.vercel.app) SPA car rental website. Stack: React, ReduxTK, Next JS, SCSS, CSS Modules. [`Repository`](https://github.com/leonidparshentsev/Carrent).
 
 - [`Todo app`](https://todos-tau-five.vercel.app) task scheduler. Stack: React, Next JS, CSS Modules. [`Repository`](https://github.com/leonidparshentsev/todos). Implemented in the project:
   * Drag and drop to move tasks between groups.
@@ -82,7 +86,7 @@ I’m interested in web development and design. You can see my projects below.
 
 - HTML · BEM · Adaptive layout · Cross-browser
 - CSS · SASS/SCSS · CSS Modules
-- JavaScript · React · Next JS
+- JavaScript · React · Redux · Next JS
 - Git
 
 [![codewars](https://www.codewars.com/users/leonidparshentsev/badges/micro)](https://www.codewars.com/users/leonidparshentsev)
